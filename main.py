@@ -1,3 +1,9 @@
+'''
+Gagol Egor 70
+Tarlo Evgeny 60
+Karpenko Nikolay 25
+'''
+
 from turtle import *
 from math import *
 
